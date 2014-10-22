@@ -1,4 +1,4 @@
 ingenieriaSoftwareIS
 ====================
 
-Repositorio para prácticas. Aquí se pondrán las practicas
+Repositorio para prácticas. Aquí se pondrán las practicassdsasdas
