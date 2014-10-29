@@ -1,4 +1,4 @@
-ingenieriaSoftwareIS prueba
+ingenieriaSoftwareIS 
 ====================
 
-Repositorio para prácticas. Aquí se pondrán las practicassdsasdas
+Repositorio para prácticas. Aquí se pondrán las practicassdsasdas prueba
