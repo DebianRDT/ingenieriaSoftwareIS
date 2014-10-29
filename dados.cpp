@@ -16,7 +16,7 @@ Dados::Dados(int caras)
 void Dados::lanzarDado(int cantidad) {
     int i;
     for (i=0; i<cantidad; i++) {
-      //  dado_=1+rand()%(caras_);
+       dado_=1+rand()%(caras_);
         _tiradas.push_back(10);
     }
 }
